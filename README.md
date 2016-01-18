@@ -6,7 +6,7 @@ It will apply the next-line's indentation to any empty (no spaces,
 or characters) line, except the first and last lines, if the 
 previous-line has (any) indentation, as well.
 
-In other words, if some evil editor (like Atom Jan' 2016) cleared all the whitespace-only lines in your code,
+In other words, if some evil editor (like Atom Jan' 2016) cleared all the whitespace-only lines in your Python code,
 and for some reason you didn't revert immediately, this will restore them as indented lines.
 
 Example:
