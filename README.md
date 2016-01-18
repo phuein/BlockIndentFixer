@@ -8,3 +8,6 @@ previous-line has (any) indentation, as well.
 
 In other words, if some evil editor (like Atom Jan' 2016) cleared all the whitespace-only lines in your code,
 and for some reason you didn't revert immediately, this will restore them as indented lines.
+
+Example:
+http://i.imgur.com/s7lnA8Z.png
